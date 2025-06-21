@@ -24,7 +24,9 @@ Used OneHotEncoding to convert categorical columns like Category, Sub Category, 
 Model Performance (on Test Set):
 
 Mean Absolute Error (MAE): Measures average prediction error in profit.
+
 Root Mean Squared Error (RMSE): Punishes large errors more, useful for business risk evaluation.
+
 R² Score: Shows how well the model explains variance in profit (typically values above 0.7–0.8 indicate strong performance).
 
 Model Deployment Preparation:
