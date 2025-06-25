@@ -1,5 +1,7 @@
 Supermart Grocery Sales Analyis
+
 Table of contents:
+
 Project overview
 Objective
 Key Insights
