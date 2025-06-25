@@ -20,6 +20,7 @@ Calculated Profit Margin to capture sales efficiency.
 
 Data Preprocessing:
 Missing dates were handled gracefully.
+
 Used OneHotEncoding to convert categorical columns like Category, Sub Category, Region, and State into numerical format for modeling.
 
 Model Performance (on Test Set):
