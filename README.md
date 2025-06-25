@@ -1,3 +1,10 @@
+Supermart Grocery Sales Analyis
+Table of contents:
+Project overview
+Objective
+Key Insights
+Conclusion
+
 📊 Project Overview :
 
 This project focuses on building a predictive model using Random Forest Regression to estimate the profit generated from grocery sales in a retail business. 
