@@ -7,7 +7,7 @@
 
 ---
 
-##🧪 Tools and Libraries Used
+## 🧪 Tools and Libraries Used
 - Pandas for data manipulation
 - NumPy for numerical operations
 - Matplotlib & Seaborn for visualizations
