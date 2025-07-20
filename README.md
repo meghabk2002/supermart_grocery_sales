@@ -45,3 +45,11 @@
 - Provide actionable business insights for stakeholders
 
 ---
+
+## 📣 Contact
+
+**Megha BK**  
+🎓 Post Graduate in Data Science and Analytics  
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/megha-bk-718265222/)
+
+---
