@@ -52,5 +52,7 @@ Can we predict whether a grocery order will fall in the top 25% of profit, and w
 ## 📣 Contact
 **Megha BK**
 🎓 MSc Data Science and Analytics — Munster Technological University, Cork
+
 📬 Connect on [LinkedIn](https://www.linkedin.com/in/megha-bk)
+
 💻 GitHub: [github.com/meghabk2002](https://github.com/meghabk2002)
